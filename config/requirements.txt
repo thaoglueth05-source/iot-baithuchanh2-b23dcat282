@@ -1,0 +1,7 @@
+paho-mqtt
+influxdb-client
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
